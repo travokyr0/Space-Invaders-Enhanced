@@ -10,9 +10,11 @@
    cd space-invaders-enhanced
 
 2. **Установите зависимости:**
+   ```python
    pip install pygame-ce==2.5.1
 
 3. **Запустите игру:**
+   ```python
    python src/main.py
 
 *🌟 Особенности*
